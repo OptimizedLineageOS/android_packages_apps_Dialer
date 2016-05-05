@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2016 Projekt Substratum
+     Copyright (C) 2016-2017 Projekt Substratum
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -17,5 +17,4 @@
 <resources>
     <color name="promo_card_header_text_color">@color/background_dialer_white</color>
     <color name="promo_card_details_text_color">@color/background_dialer_white</color>
-    <color name="dialpad_digits_color">@color/incall_background_color</color>
 </resources>
